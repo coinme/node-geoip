@@ -2,4 +2,5 @@
 /tmp
 npm-debug.log
 
-.idea/
+# JetBrains IDE project files
+/.idea/
