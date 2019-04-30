@@ -3,4 +3,6 @@
 npm-debug.log
 
 # JetBrains IDE project files
-/.idea/
+.idea/
+.DS_Store
+yarn.lock
